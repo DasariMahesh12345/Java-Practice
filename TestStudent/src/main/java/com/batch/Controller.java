@@ -1,0 +1,15 @@
+package com.batch;
+
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class Controller {
+	
+	@PostMapping("/add")
+	public void create(@RequestBody Model emp) {
+		System.out.println(emp);
+	}
+
+}
