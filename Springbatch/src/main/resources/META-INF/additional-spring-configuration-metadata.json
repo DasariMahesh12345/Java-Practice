@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "input.file.path",
+    "type": "java.lang.String",
+    "description": "A description for 'input.file.path'"
+  },
+  {
+    "name": "input.file.path",
+    "type": "java.lang.String",
+    "description": "A description for 'input.file.path'"
+  },
+  {
+    "name": "input.file.path",
+    "type": "java.lang.String",
+    "description": "A description for 'input.file.path'"
+  }
+]}
